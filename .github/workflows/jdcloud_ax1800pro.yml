@@ -1,4 +1,4 @@
-name: Build WRT
+name: ax1800pro Build WRT
 run-name: Build - ${{ inputs.model }}
 
 on:

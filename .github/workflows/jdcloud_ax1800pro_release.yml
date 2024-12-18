@@ -1,4 +1,4 @@
-name: Relese WRT
+name: ax1800pro Relese WRT
 run-name: Relese - ${{ inputs.model }}
 
 on:

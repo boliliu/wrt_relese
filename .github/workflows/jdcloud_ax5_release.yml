@@ -1,4 +1,4 @@
-name: jdcloud_ax5 Relese WRT
+name: jdcloud_ax5_wifino Relese WRT
 run-name: Relese - ${{ inputs.model }}
 
 on:
